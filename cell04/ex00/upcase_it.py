@@ -1,0 +1,1 @@
+word = input("Give me a word: ")
